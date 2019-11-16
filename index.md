@@ -4,7 +4,11 @@ layout: default
 
 # Quick Start
 
-![Quick Start Image](/ionic-maidenhead/assets/images/ionic.png)
+![Quick Start Image](/ionic-maidenhead-support/assets/images/ionic.png)
+
+# Issues & support
+
+Issues and support requests can be submitted [here](https://github.com/thorbert/ionic-maidenhead-support/issues)
 
 # Issues & support
 
