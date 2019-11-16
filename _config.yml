@@ -1,0 +1,5 @@
+title: Ionic Maidenhead
+description: Use the GPS on Fitbit Ionic to display your current maidenhead grid locator.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-slate
