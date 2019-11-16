@@ -26,7 +26,7 @@ The app has additional settings, available on you mobile device, to control beha
 
 * GPS active on start (acquire position from GPS when app starts)
 * Keep screen on (drains power if always on)
-* Position sample limit (automatically disables GPS to conserve power after N samples have been read)
+* Position sampling time limit (automatically disables GPS to conserve power after N seconds)
 * Maidenhead grid precision (2,3,4,5)
 * Background color selector
 * Label color selector
