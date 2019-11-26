@@ -10,10 +10,6 @@ layout: default
 
 Issues and support requests can be submitted [here](https://github.com/thorbert/ionic-maidenhead-support/issues)
 
-# Issues & support
-
-Issues and support requests can be submitted [here](https://github.com/thorbert/ionic-maidenhead-support/issues)
-
 # Description
 
 This app is designed for amateur radio "rovers" (operators who move from location to location while operating). This app provides a quick and easy way to sense your current [maidenhead grid locator](https://en.wikipedia.org/wiki/Maidenhead_Locator_System) using the Ionic's onboard GPS. Grid locators are frequently used in VHF/UHF contests and are often exchanged in low power (QRP) operating modes. This app puts the geolocation on your wrist, freeing you up to move about, tune stations, and enjoy operating without having to figure out your current operating location.
